@@ -1,0 +1,1 @@
+use arrow key and a,s,d,w for play
